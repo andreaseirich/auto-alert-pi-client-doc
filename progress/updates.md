@@ -53,9 +53,10 @@
 - Erste Tests durchführen
 - System optimieren
 
-**Geschätzte nächste Updates:**
-- Heute Abend: Telegram-Integration und erste Tests
-- Morgen: Vollständig funktionsfähiges System
+**Realistische Zeitplanung:**
+- Diese Woche: Grundfunktionalität und erste Benachrichtigungen
+- Nächste Woche: Optimierung und 24h-Stabilitätstest
+- Projektabschluss: In 10-14 Tagen (1-2 Wochen)
 
 ---
 
@@ -100,8 +101,9 @@
 - Klare Darstellung der erforderlichen Hardware
 
 **Nächste Schritte:**
-- Telegram-Integration implementieren
-- Erste Tests durchführen
+- Willhaben-API analysieren und erste Testmodule entwickeln
+- Polling-Engine und Telegram-Integration implementieren
+- System schrittweise testen und optimieren
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 17:20
+**Letzte Aktualisierung:** 08.10.2025 17:30
