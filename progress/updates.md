@@ -58,4 +58,27 @@
 - Morgen: Vollständig funktionsfähiges System
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 16:45
+
+### 08.10.2025 - Hardware-Kosten geklärt
+**Status:** ✅ Abgeschlossen  
+**Entwicklungszeit:** 15 Minuten  
+**Entwickler:** Andreas Eirich
+
+**Was wurde heute gemacht:**
+- ✅ Hardware-Architektur klar definiert
+- ✅ Kostenstruktur sachlich dargestellt
+- ✅ Detaillierte Kostenaufstellung erstellt
+- ✅ Alle Dokumentationen korrigiert
+
+**Was bedeutet das für Sie:**
+- Das System läuft auf bewährter Raspberry Pi 4 Hardware
+- Keine zusätzlichen Hardware-Kosten für das Projekt
+- Transparente und ehrliche Kostenaufstellung
+- Systemerweiterung dient der Infrastruktur-Stabilität
+
+**Nächste Schritte:**
+- Telegram-Integration implementieren
+- Erste Tests durchführen
+
+---
+**Letzte Aktualisierung:** 08.10.2025 17:00
