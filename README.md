@@ -12,8 +12,8 @@ Ein intelligentes System, das automatisch neue Fahrzeuginserate auf willhaben.at
 
 ### 💰 Kosten & Hardware
 - **Entwicklungskosten:** Nach Fertigstellung (transparente Zeiterfassung)
-- **Systemerweiterung:** 450-500€ für Infrastruktur-Ausbau zur Stabilität
-- **Betrieb:** Stromkosten ca. 5-10€/Monat
+- **Systemerweiterung:** 450-500€ (notwendig für Projektrealisierung)
+- **Hinweis:** Zur Umsetzung des Projekts wurde eine Systemerweiterung erforderlich, die einmalig angeschafft und eingerichtet wurde
 
 ### 📱 Wie funktioniert es?
 1. **System überwacht** willhaben.at kontinuierlich
@@ -30,9 +30,9 @@ Alle Entwicklungsfortschritte werden transparent dokumentiert:
 
 ### 🔧 Technische Details (vereinfacht)
 - **Hardware:** Raspberry Pi 4 (8GB RAM) - aktives System
-- **Systemerweiterung:** Zusätzliche Hardware zur Infrastruktur-Stabilisierung
+- **Systemerweiterung:** Raspberry Pi 5 als permanente Systemerweiterung in die bestehende Infrastruktur integriert
 - **Datenbank:** Lokale SQLite-Datenbank für schnelle Zugriffe
-- **Stromversorgung:** Stabile Stromversorgung mit Backup-Optionen
+- **Stabilität:** Diese Erweiterung stellt sicher, dass das Gesamtsystem zuverlässig, performant und erweiterbar bleibt
 
 ### 📞 Support & Wartung
 - Vollständige Dokumentation aller Funktionen
