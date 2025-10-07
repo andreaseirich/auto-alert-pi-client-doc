@@ -4,6 +4,7 @@
 
 ### 06.10.2025 - Projektstart
 **Status:** ✅ Projekt erfolgreich gestartet  
+**Kategorie:** Systempflege & Infrastruktur  
 **Entwicklungszeit:** 2h 30min (23:00-01:30)  
 **Entwickler:** Andreas Eirich
 
@@ -27,23 +28,24 @@
 
 ### 07.10.2025 - Projektstruktur Code-Grundgerüst erstellt
 **Status:** 🔄 In Entwicklung  
+**Kategorie:** Code-Entwicklung  
 **Entwicklungszeit:** 0h 49min (00:24-01:13)  
 **Entwickler:** Andreas Eirich
 
 **Was wurde heute gemacht:**
 - ✅ Vollständige Projektstruktur in 3 Repositories erstellt
 - ✅ Systemarchitektur Code-Grundgerüst geplant und dokumentiert
-- ✅ Code-Module Grundgerüst erstellt (Datenbank, Polling, Logging)
-- ✅ Hauptanwendung Code-Grundgerüst erstellt
-- ✅ Konfigurationssystem Code-Grundgerüst erstellt
+- ✅ Code-Module Grundgerüst erstellt (Datenbank, Polling, Logging) - ungetestet, nicht funktionsfähig
+- ✅ Hauptanwendung Code-Grundgerüst erstellt - ungetestet, nicht funktionsfähig
+- ✅ Konfigurationssystem Code-Grundgerüst erstellt - ungetestet, nicht funktionsfähig
 - ✅ Hardware-Spezifikationen korrigiert und dokumentiert
 - ✅ Realistische Zeitplanung implementiert
 
 **Was bedeutet das für Sie:**
 - Das System hat jetzt eine professionelle Struktur
-- Code-Grundgerüste für alle Grundfunktionen sind erstellt
-- Die Datenbank Code-Grundgerüst ist vorbereitet
-- Code-Grundgerüst für automatischen Start/Stop ist erstellt
+- Code-Grundgerüste für alle Grundfunktionen sind erstellt (ungetestet, nicht funktionsfähig)
+- Die Datenbank Code-Grundgerüst ist vorbereitet (ungetestet, nicht funktionsfähig)
+- Code-Grundgerüst für automatischen Start/Stop ist erstellt (ungetestet, nicht funktionsfähig)
 - Alle Aktivitäten werden detailliert protokolliert
 - Transparente und ehrliche Kostenstruktur
 - Realistische Zeitplanung ohne unrealistische Versprechen
