@@ -7,9 +7,9 @@
 - **Entwicklungskosten:** Nach Fertigstellung (transparente Zeiterfassung)
 
 ### Systemerweiterung (Notwendig)
-- **Zweck:** Zur Realisierung des Projekts wurde eine Systemerweiterung der bestehenden Serverinfrastruktur erforderlich
-- **Kostenrahmen:** 450-500€
-- **Begründung:** Diese Erweiterung dient ausdrücklich der Stabilität, Datensicherheit und Leistungsfähigkeit des Gesamtsystems
+- **Zweck:** Raspberry Pi 5 (16GB) - dauerhafte Systemerweiterung meiner Serverinfrastruktur (notwendig)
+- **Kostenrahmen:** 450-500€ (einmalige Hardwarekosten)
+- **Begründung:** Schafft Ressourcen, um RPi4 für dieses Projekt freizuhalten
 
 ## 🔧 Hardware-Details
 
@@ -22,7 +22,7 @@
 
 ### Systemerweiterung (Notwendig)
 - **Hardware:** Raspberry Pi 5 Konfiguration
-- **Zweck:** Der Raspberry Pi 5 ist als permanente Systemerweiterung in die bestehende Infrastruktur integriert
+- **Zweck:** Dauerhafte Systemerweiterung meiner Serverinfrastruktur (NICHT Projekt-Hauptsystem)
 - **Komponenten:**
   - Raspberry Pi 5 (16GB)
   - Pironman 5-MAX Case
@@ -46,10 +46,10 @@
 
 ### Entwicklung und Hardware
 - **Entwicklung:** Nach Fertigstellung (Zeiterfassung)
-- **Systemerweiterung:** 450-500€ (notwendig für Projektrealisierung)
+- **Systemerweiterung:** 450-500€ (einmalige Hardwarekosten, notwendig für Projektrealisierung)
 
 ### Hinweis zu laufenden Kosten
 Bei späteren Erweiterungen oder Wartungsverträgen könnten laufende Betriebskosten hinzukommen – aktuell nicht relevant.
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 16:45
+**Letzte Aktualisierung:** 2025-10-07 14:09:16 (Europe/Berlin)
