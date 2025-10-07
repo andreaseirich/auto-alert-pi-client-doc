@@ -40,4 +40,4 @@ Alle Entwicklungsfortschritte werden transparent dokumentiert:
 - Technischer Support bei Fragen
 
 ---
-**Letzte Aktualisierung:** 08.10.2025 14:45
+**Letzte Aktualisierung:** 2025-10-07 13:45:24 (Europe/Berlin)
