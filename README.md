@@ -4,6 +4,16 @@
 
 > *"Falsche Lippen sind dem HERRN ein Gräuel; die aber treu handeln, gefallen ihm." (Sprüche 12,22)*
 
+## 📂 Schnellzugriff
+
+- 🏠 **Projektübersicht:** [README.md](README.md)
+- 🧩 **Systemarchitektur:** [overview/system_structure.md](overview/system_structure.md)
+- 📈 **Fortschritt & Updates:** [progress/updates.md](progress/updates.md)
+- 🕓 **Projektzeitplan:** [usage/project_timeline.md](usage/project_timeline.md)
+- 📞 **Support & Kontakt:** [Support & Wartung](#-support--wartung)
+
+---
+
 ## 🚗 Was ist Auto-Alert-Pi?
 
 Ein intelligentes System, das **automatisch** neue Fahrzeuginserate auf willhaben.at überwacht und Sie **sofort** per Telegram benachrichtigt, wenn interessante Angebote erscheinen.
