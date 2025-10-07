@@ -26,7 +26,7 @@
 
 ---
 
-### 07.10.2025 - Projektstruktur Code-Grundgerüst erstellt
+### 07.10.2025 - Projektstruktur Grundstruktur erstellt
 **Status:** 🔄 In Entwicklung  
 **Kategorie:** Code-Entwicklung  
 **Entwicklungszeit:** 0h 49min (00:24-01:13)  
@@ -34,7 +34,7 @@
 
 **Was wurde heute gemacht:**
 - ✅ Vollständige Projektstruktur in 3 Repositories erstellt
-- ✅ Systemarchitektur Code-Grundgerüst geplant und dokumentiert
+- ✅ Systemarchitektur Grundstruktur geplant und dokumentiert
 - ✅ Code-Module Grundstruktur erstellt (Datenbank, Polling, Logging) - Tests stehen noch aus
 - ✅ Hauptanwendung Funktionslogik angelegt - Validierung folgt
 - ✅ Konfigurationssystem Codebasis steht - Funktionstests ausstehend
