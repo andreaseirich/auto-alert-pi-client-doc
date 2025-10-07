@@ -52,6 +52,11 @@
 
 **Technischer Hinweis:** Code-Erstellung erfolgte teilweise mit KI-Unterstützung (Cursor) und wurde manuell geprüft.
 
+**Git-Commits:**
+- `auto-alert-pi`: 905ef34 - feat(core): implement system architecture and core modules
+- `auto-alert-pi-docs`: a68ab44 - docs(progress): update technical progress log
+- `auto-alert-pi-client-doc`: 9a77823 - docs(client): update customer progress log
+
 **Nächste Schritte:**
 - Willhaben-API analysieren und erste Testmodule entwickeln
 - Polling-Engine und Telegram-Integration implementieren
@@ -63,4 +68,4 @@
 - Projektabschluss (16.-19.10.2025): Dokumentation und Übergabe
 
 ---
-**Letzte Aktualisierung:** 07.10.2025 13:24
+**Letzte Aktualisierung:** 07.10.2025 13:26
