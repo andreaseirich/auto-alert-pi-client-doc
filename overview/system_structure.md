@@ -45,6 +45,24 @@ graph TB
     style G fill:#e3f2fd
 ```
 
+## 🔍 Wie analysieren wir Willhaben?
+
+### 📊 API-Analyse und Datenabruf
+Bevor wir Ihr System aktivieren, haben wir die Willhaben-Website gründlich analysiert, um zu verstehen, wie wir alle Inserate am besten erfassen können. Das ist wie das Studieren einer Landkarte, bevor man eine Reise antritt.
+
+#### Was bedeutet das für Sie?
+- **Vollständigkeit:** Wir finden alle Inserate, auch die "versteckten" oder schwer zu findenden
+- **Zuverlässigkeit:** Das System funktioniert auch bei Änderungen der Website
+- **Effizienz:** Wir nutzen die beste Methode, um schnell und sicher Daten zu bekommen
+
+#### Wie funktioniert die Analyse?
+1. **Website-Struktur verstehen:** Wir schauen uns an, wie Willhaben die Inserate anzeigt
+2. **Datenquellen identifizieren:** Wir finden die besten Wege, um an die Informationen zu kommen
+3. **Anti-Bot-Maßnahmen umgehen:** Wir stellen sicher, dass unser System nicht blockiert wird
+4. **Optimale Abfrage-Strategie:** Wir entwickeln die effizienteste Methode für den Datenabruf
+
+🔍 **Bedeutung:** Die gründliche Analyse stellt sicher, dass Sie wirklich alle relevanten Inserate erhalten und nichts übersehen wird.
+
 ## 🔄 Datenfluss im Detail
 
 ### 1️⃣ Überwachung (Monitoring)
@@ -231,6 +249,6 @@ pie title Ressourcenverteilung
 
 ---
 
-**Letzte Aktualisierung:** 2025-10-07 16:00:18 (Europe/Berlin)  
+**Letzte Aktualisierung:** 2025-10-07 19:00:14 (Europe/Berlin)  
 **Entwickler:** Andreas Eirich  
-**Status:** Systemarchitektur geplant - Implementierung läuft
+**Status:** Systemarchitektur vollständig dokumentiert
