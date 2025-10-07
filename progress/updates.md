@@ -50,6 +50,8 @@
 - Transparente und ehrliche Kostenstruktur
 - Realistische Zeitplanung ohne unrealistische Versprechen
 
+**Technischer Hinweis:** Code-Erstellung erfolgte teilweise mit KI-Unterstützung (Cursor) und wurde manuell geprüft.
+
 **Nächste Schritte:**
 - Willhaben-API analysieren und erste Testmodule entwickeln
 - Polling-Engine und Telegram-Integration implementieren
@@ -61,4 +63,4 @@
 - Projektabschluss (16.-19.10.2025): Dokumentation und Übergabe
 
 ---
-**Letzte Aktualisierung:** 07.10.2025 13:01
+**Letzte Aktualisierung:** 07.10.2025 13:24
