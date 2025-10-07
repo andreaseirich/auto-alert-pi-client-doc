@@ -52,4 +52,4 @@
 Bei späteren Erweiterungen oder Wartungsverträgen könnten laufende Betriebskosten hinzukommen – aktuell nicht relevant.
 
 ---
-**Letzte Aktualisierung:** 2025-10-07 14:09:16 (Europe/Berlin)
+**Letzte Aktualisierung:** 2025-10-07 15:50:41 (Europe/Berlin)

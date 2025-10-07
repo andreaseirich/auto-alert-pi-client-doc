@@ -50,7 +50,6 @@
 - Transparente und ehrliche Kostenstruktur
 - Realistische Zeitplanung ohne unrealistische Versprechen
 
-**Technischer Hinweis:** Code-Erstellung erfolgte teilweise mit KI-Unterstützung (Cursor) und wurde manuell geprüft.
 
 **Git-Commits:**
 - `auto-alert-pi`: 905ef34 - feat(core): implement system architecture and core modules
@@ -88,7 +87,6 @@
 - Alle Module sind mit Testdaten-Kennzeichnung versehen (Transparenz)
 - Die nächste Phase umfasst die Validierung der Testmodule
 
-**Technischer Hinweis:** Code-Erstellung erfolgte teilweise mit KI-Unterstützung (Cursor) und wurde manuell geprüft.
 
 **Git-Commits:**
 - `auto-alert-pi`: 9541981 - feat(tests): implement test modules for API analysis, database validation and Telegram bot formatting
@@ -102,4 +100,4 @@
 
 ---
 
-**Letzte Aktualisierung:** 2025-10-07 15:11:19 (Europe/Berlin)
+**Letzte Aktualisierung:** 2025-10-07 15:50:41 (Europe/Berlin)
