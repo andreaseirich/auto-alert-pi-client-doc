@@ -2,53 +2,57 @@
 
 ## 📅 Realistische Entwicklungszeit
 
+**Projektstart:** 06.10.2025, 23:00 Uhr  
 **Gesamtdauer:** 10-14 Tage (1-2 Wochen)  
 **Entwickler:** Andreas Eirich  
 **Status:** In Entwicklung  
 
 ## 🎯 Was Sie erwarten können
 
-### Diese Woche (Tag 1-7)
+### Diese Woche (06.-12.10.2025)
 **Grundfunktionalität und erste Tests**
 
-- **Tag 1-3:** Projektstruktur und Architektur ✅ (abgeschlossen)
-- **Tag 4-7:** Kernfunktionalität implementieren
+- **06.-08.10.2025:** Projektstruktur und Architektur ✅ (abgeschlossen)
+- **09.-12.10.2025:** Kernfunktionalität implementieren
+  - Willhaben-API-Struktur analysieren
   - Polling-System für willhaben.at
   - Erste Telegram-Benachrichtigungen
   - Datenbank-Integration
   - Grundlegende Tests
 
-### Nächste Woche (Tag 8-14)
+### Nächste Woche (13.-19.10.2025)
 **Optimierung und Stabilisierung**
 
-- **Tag 8-10:** System optimieren und stabilisieren
+- **13.-15.10.2025:** System optimieren und stabilisieren
   - Performance auf ≤4 Sekunden optimieren
   - 24-Stunden-Stabilitätstest
   - Fehlerbehandlung verbessern
-- **Tag 11-14:** Dokumentation und Abnahme
+- **16.-19.10.2025:** Dokumentation und Abnahme
   - Vollständige Dokumentation
   - Bedienungsanleitung
   - Systemübergabe
 
 ## 📊 Entwicklungsphasen im Detail
 
-### Phase 1: Grundlagen (Tag 1-3) ✅
+### Phase 1: Grundlagen (06.-08.10.2025) ✅
 **Status:** Abgeschlossen  
 **Was wurde gemacht:**
-- Professionelle Projektstruktur erstellt
-- Systemarchitektur geplant und dokumentiert
-- Alle notwendigen Code-Module vorbereitet
-- Dokumentationssystem eingerichtet
+- ✅ Erste Systemeinstellungen (06.10.2025, 23:00-01:30)
+- ✅ Professionelle Projektstruktur erstellt (07.10.2025, 12:00-14:20)
+- ✅ Systemarchitektur geplant und dokumentiert
+- ✅ Alle notwendigen Code-Module vorbereitet
+- ✅ Dokumentationssystem eingerichtet
 
-### Phase 2: Implementierung (Tag 4-7)
+### Phase 2: Implementierung (09.-12.10.2025)
 **Status:** Geplant  
 **Was passiert:**
+- Willhaben-API-Struktur wird analysiert
 - Willhaben.at wird kontinuierlich überwacht
 - Neue Inserate werden automatisch erkannt
 - Sie erhalten erste Telegram-Benachrichtigungen
 - Alle Inserate werden in der Datenbank gespeichert
 
-### Phase 3: Optimierung (Tag 8-10)
+### Phase 3: Optimierung (13.-15.10.2025)
 **Status:** Geplant  
 **Was passiert:**
 - System wird auf maximale Geschwindigkeit optimiert
@@ -56,7 +60,7 @@
 - Alle Fehlerquellen werden behoben
 - System läuft stabil und zuverlässig
 
-### Phase 4: Abnahme (Tag 11-14)
+### Phase 4: Abnahme (16.-19.10.2025)
 **Status:** Geplant  
 **Was passiert:**
 - Vollständige Dokumentation wird erstellt
