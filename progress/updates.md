@@ -1,5 +1,12 @@
 # Auto-Alert-Pi - Kundenfortschrittslog
 
+
+> *"Falsche Lippen sind dem HERRN ein Gräuel; die aber treu handeln, gefallen ihm." (Sprüche 12,22)*
+
+## 🔗 Schnellzugriff
+
+[📖 Übersicht](../README.md) │ [📅 Projektverlauf](../usage/project_timeline.md) │ [📈 Fortschritt](#-projektfortschritt-für-kunden) │ [🧩 Systemstruktur](../overview/system_architecture.md) │ [📬 Rückmeldung & Support](../contact/info.md)
+
 ## 📈 Projektfortschritt für Kunden
 
 ### 06.10.2025 - Projektstart
@@ -101,3 +108,9 @@
 ---
 
 **Letzte Aktualisierung:** 2025-10-07 15:50:41 (Europe/Berlin)
+---
+
+## 🔗 Navigation
+
+**Schnellzugriff:**  
+[📖 Übersicht](../README.md) │ [📅 Projektverlauf](../usage/project_timeline.md) │ [📈 Fortschritt](../progress/updates.md) │ [🧩 Systemstruktur](system_architecture.md) │ [📬 Rückmeldung & Support](../contact/info.md)

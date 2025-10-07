@@ -1,5 +1,12 @@
 # Auto-Alert-Pi - Projektzeitplan
 
+> *"Falsche Lippen sind dem HERRN ein Gräuel; die aber treu handeln, gefallen ihm." (Sprüche 12,22)*
+
+## 🔗 Schnellzugriff
+
+[📖 Übersicht](../README.md) │ [📅 Projektverlauf](#-projektübersicht) │ [📈 Fortschritt](../progress/updates.md) │ [🧩 Systemstruktur](../overview/system_architecture.md) │ [📬 Rückmeldung & Support](../contact/info.md)
+
+
 ## 📅 Realistische Entwicklungszeit
 
 **Projektstart:** 06.10.2025, 23:00 Uhr  
@@ -137,3 +144,9 @@
 
 ---
 **Letzte Aktualisierung:** 2025-10-07 15:50:41 (Europe/Berlin)
+---
+
+## 🔗 Navigation
+
+**Schnellzugriff:**  
+[📖 Übersicht](../README.md) │ [📅 Projektverlauf](#-projektübersicht) │ [📈 Fortschritt](../progress/updates.md) │ [🧩 Systemstruktur](../overview/system_architecture.md) │ [📬 Rückmeldung & Support](../contact/info.md)
