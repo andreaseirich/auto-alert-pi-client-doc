@@ -9,10 +9,12 @@
 - 🏠 **Projektübersicht:** [README.md](README.md)
 - 🧩 **Systemarchitektur:** [overview/system_structure.md](overview/system_structure.md)
 - 📈 **Fortschritt & Updates:** [progress/updates.md](progress/updates.md)
-- 🕓 **Projektzeitplan:** [usage/project_timeline.md](usage/project_timeline.md)
+- 🕓 **Projektzeitplan:** [usage/project_timeline.md](usage/project_timeline.md) *(in Entwicklung)*
 - 📞 **Support & Kontakt:** [Support & Wartung](#-support--wartung)
 
 ---
+
+**Letzte Aktualisierung:** 2025-10-10 21:42:07 (Europe/Berlin)
 
 ## 🚗 Was ist Auto-Alert-Pi?
 
