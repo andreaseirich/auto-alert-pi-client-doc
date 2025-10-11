@@ -249,6 +249,6 @@ pie title Ressourcenverteilung
 
 ---
 
-**Letzte Aktualisierung:** 2025-10-07 19:00:14 (Europe/Berlin)  
+**Letzte Aktualisierung:** 2025-10-11 19:32:26 (Europe/Berlin)  
 **Entwickler:** Andreas Eirich  
-**Status:** Systemarchitektur vollständig dokumentiert
+**Status:** Systemarchitektur vollständig dokumentiert + Live-Test erfolgreich
