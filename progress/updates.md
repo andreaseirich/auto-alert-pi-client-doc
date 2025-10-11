@@ -4,6 +4,14 @@
 
 ## 📈 Aktueller Projektstand
 
+### ⏰ Arbeitszeit bisher: 12h 51min
+
+> **Was ist enthalten?**  
+> Die Arbeitszeit umfasst die komplette Projektentwicklung: System-Setup, Programmierung, Tests, Dokumentation und alle Planungsarbeiten.  
+> *Transparent und nachvollziehbar - so wie es sein sollte.*
+
+---
+
 ### 🎯 Gesamtfortschritt
 
 ```mermaid
@@ -534,7 +542,7 @@ Test-Validierung ist wie eine gründliche Prüfung Ihres neuen Autos vor der ers
 | **Code-Validierung & Test** | 5min | 1% |
 | **Dokumentation & Prüfung** | 7min | 1% |
 | **Dokumentation & Kommunikation** | 8min | 1% |
-| **Gesamt** | 8h 29min | 100% |
+| **Gesamt** | 12h 51min | 100% |
 
 ### 📈 Fortschrittsübersicht
 
