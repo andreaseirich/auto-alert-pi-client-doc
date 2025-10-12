@@ -127,7 +127,7 @@ graph LR
 - Entscheidet über Relevanz
 
 **Kriterien für Benachrichtigung:**
-- ✅ Preis zwischen 0€ und 50.000€
+- ✅ Preis zwischen 0€ und 5.000€
 - ✅ Standort in Österreich
 - ✅ Vollständige Inserat-Daten
 - ✅ Nicht bereits bekannt
